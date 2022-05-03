@@ -1,0 +1,15 @@
+   <div class="pricing-card-back back-premium">
+                        <a href="#">Order Now</a>
+                    </div>
+
+    <div class="pricing-card-back back-standard">
+                        <a href="#">Order Now</a>
+                    </div>
+
+    <div class="pricing-card-back back-basic">
+                        <a href="#">Order Now</a>
+                    </div>
+
+     <div class="pricing-card-back back-free">
+                        <a href="#">Order Now</a>
+                    </div>
